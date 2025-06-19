@@ -1,4 +1,4 @@
-# https-codeberg.org-MusawenkosHeart-disease-detection-machine-learning-model
+# Heart-disease-detection-machine-learning-model
 
 ❤️ Problem Definition
 
